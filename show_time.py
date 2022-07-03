@@ -1,2 +1,2 @@
 from datetime import datetime
-print("Time =", datetime.now().strftime("%H:%M:%S"))
+print("Time =", datetime.now().strftime("%d-%m-%Y %H:%M:%S"))
